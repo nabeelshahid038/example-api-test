@@ -1,1 +1,1 @@
-export const RATE_LIMIT_PER_MINUTE = 300;
+export const RATE_LIMIT_PER_MINUTE = 301;
